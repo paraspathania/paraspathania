@@ -1,23 +1,29 @@
 <h1 align="center">Hi 👋, I'm Paras Pathania</h1>
-<h3 align="center">Web Developer | ReactJS Learner | Tech Explorer</h3>
+<h3 align="center">Aspiring Web & Software Developer | Java & SQL Enthusiast</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning **ReactJS and Tailwind CSS**
-- 💬 Ask me about **HTML, CSS, JavaScript, Git, GitHub**
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I'm passionate about **Web Development** and **Software Development**
+- 💻 Skilled in **Java**, **SQL**, **HTML**, **CSS**, **Git**, and **GitHub**
+- 🌱 Currently learning **JavaScript** and **ReactJS**
 - 📫 Reach me: paraspathania@example.com
-- ⚡ Fun fact: I enjoy debugging more than coding sometimes!
+- ⚡ Fun fact: I enjoy writing clean, readable code and automating things!
 
 ---
 
-### 🚀 Languages & Tools
+### 🛠️ Languages & Tools
 
-<p align="left">
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 </p>
 
 ---
@@ -29,6 +35,6 @@
 
 ---
 
-### 🔗 Connect With Me
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-pathania-01a793327)
