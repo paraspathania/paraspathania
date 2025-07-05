@@ -30,17 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="ReactJS" />
 </p>
 
-### 🌐 Socials
-
-<p align="left">
-  <a href="https://linkedin.com/in/paras-pathania-01a793327" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:paraspathania705@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/4712/4712107.png" width="40" height="40" alt="Developer Email Icon"/>
-  </a>
-</p>
 
 ### 🌐 Socials
 
