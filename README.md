@@ -12,7 +12,7 @@
 - 💻 I'm passionate about **Web Development** and **Software Development**
 - 🌱 Currently learning **ReactJS** and **modern frontend tools**
 - 🧠 Skilled in **Java**, **SQL**, **HTML**, **CSS**, **Git**, and **GitHub**
-- 📫 Reach me at: paraspathania@example.com
+- 📫 Reach me at: paraspathania705@gmail.com
 - 🤝 Open to collaborating on interesting frontend or Java-based projects
 
 ---
@@ -28,5 +28,5 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-pathania-01a793327)
 
