@@ -10,7 +10,7 @@
 - 🔭 I'm passionate about **Web Development** and **Software Development**
 - 💻 Skilled in **Java**, **SQL**, **HTML**, **CSS**, **Git**, and **GitHub**
 - 🌱 Currently learning **JavaScript** and **ReactJS**
-- 📫 Reach me: paraspathania@example.com
+- 📫 Reach me: paraspathania705@gmail.com
 - ⚡ Fun fact: I enjoy writing clean, readable code and automating things!
 
 ---
