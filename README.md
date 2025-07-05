@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 💻 I'm passionate about **Web Development** and **Software Development**
-- 🌱 Currently learning **ReactJS** and **Advanced Java**
+- 🌱 Currently learning **ReactJS** and **Advanced Java** and **Python**
 - 🧠 Skilled in **Java**, **SQL**, **HTML**, **CSS**, **Git**, and **GitHub**
 - 📫 Reach me at: paraspathania705@gmail.com
 - 🤝 Open to collaborating on interesting frontend / backend or Java-based projects
