@@ -37,13 +37,14 @@
 <h3 align="left">🌐 Connect with Me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/paras-pathania-01a793327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/paras-pathania-01a793327" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:paraspathania705@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:paraspathania705@gmail.com" target="_blank" title="Send me an email">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
+
 
 
