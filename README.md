@@ -1,32 +1,28 @@
 <h1 align="center">Hi 👋, I'm Paras Pathania</h1>
 <h3 align="center">Aspiring Web & Software Developer | Java & SQL Enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm passionate about **Web Development** and **Software Development**
-- 💻 Skilled in **Java**, **SQL**, **HTML**, **CSS**, **Git**, and **GitHub**
-- 🌱 Currently learning **JavaScript** and **ReactJS**
-- 📫 Reach me: paraspathania705@gmail.com
-- ⚡ Fun fact: I enjoy writing clean, readable code and automating things!
+- 💻 I'm passionate about **Web Development** and **Software Development**
+- 🌱 Currently learning **ReactJS** and **modern frontend tools**
+- 🧠 Skilled in **Java**, **SQL**, **HTML**, **CSS**, **Git**, and **GitHub**
+- 📫 Reach me at: paraspathania@example.com
+- 🤝 Open to collaborating on interesting frontend or Java-based projects
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
+- 💻 Java, SQL
+- 🌐 HTML, CSS
+- 🛠️ Git & GitHub
+- ⚛️ Learning ReactJS, JavaScript
 
+---
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-pathania-01a793327)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
