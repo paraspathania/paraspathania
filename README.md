@@ -42,4 +42,17 @@
   </a>
 </p>
 
+### 🌐 Socials
+
+<p align="left">
+  <a href="https://linkedin.com/in/paras-pathania-01a793327" target="_blank" title="Connect on LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:paraspathania705@gmail.com" target="_blank" title="Send an Email">
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40" height="40" alt="Gmail"/>
+  </a>
+</p>
+
+
 
