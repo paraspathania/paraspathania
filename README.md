@@ -8,8 +8,8 @@
 ### 👨‍💻 About Me
 
 - 💻 I'm passionate about **Web Development** and **Software Development**
-- 🌱 Currently learning **ReactJS** and **Advanced Java**, **Python** and **SQL**
-- 🧠 Skilled in **Core Java**, **C++**, **HTML**, **DevOps**, **CSS**, **Tailwind-CSS**, **Git**, and **GitHub**
+- 🌱 Currently learning **ReactJS**, **Python** and **SQL**
+- 🧠 Skilled in **Core Java**, **Advanced Java**, **C++**, **HTML**, **DevOps**, **CSS**, **Tailwind-CSS**, **Git**, and **GitHub**
 - 📫 Reach me at: paraspathania705@gmail.com
 - 🤝 Open to collaborating on interesting frontend / backend or Java-based projects
 
