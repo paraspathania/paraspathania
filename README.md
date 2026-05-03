@@ -1,49 +1,143 @@
-<h1 align="center">Hi 👋, I'm Paras Pathania</h1>
-<h3 align="center">Aspiring Web & Software Developer | Java & SQL Enthusiast</h3>
+<div align="center">
+
+<!-- Animated Header with Gradient -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&width=500&lines=Hi+👋+I'm+Paras+Pathania;Web+Developer;Java+Enthusiast;Always+Learning" alt="Typing SVG" />
+
+</div>
+
+<h3 align="center">
+  <samp>
+    Building amazing digital experiences with clean code & modern technologies
+  </samp>
+</h3>
 
 ---
 
----
+## 👨‍💻 About Me
 
-### 👨‍💻 About Me
+<div align="center">
 
-- 💻 I'm passionate about **Web Development** and **Software Development**
-- 🌱 Currently learning **ReactJS**, **Python** and **SQL**
-- 🧠 Skilled in **Core Java**, **Advanced Java**, **C++**, **HTML**, **DevOps**, **CSS**, **Tailwind-CSS**, **Git**, and **GitHub**
-- 📫 Reach me at: paraspathania705@gmail.com
-- 🤝 Open to collaborating on interesting frontend / backend or Java-based projects
+```
+🎯 Goal        → Become a Full-Stack Developer
+💻 Passion     → Web & Software Development  
+📚 Learning    → ReactJS, Python, System Design
+🛠️  Expertise   → Java, SQL, Web Technologies
+🤝 Open To     → Collaborating on exciting projects
+📧 Reach Out   → paraspathania705@gmail.com
+```
 
----
+</div>
 
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind-CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="ReactJS" />
+<p align="center">
+I'm a passionate developer who loves turning ideas into elegant solutions. I believe in writing clean, maintainable code and constantly pushing myself to learn new technologies and best practices.
 </p>
 
+---
 
-### 🌐 Socials
+## 🚀 Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/paras-pathania" target="_blank" title="Connect on LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+<div align="center">
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript&theme=dark" />
+</p>
+
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react&theme=dark" />
+</p>
+
+### **Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,nodejs&theme=dark" />
+</p>
+
+### **Tools & Version Control**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+</div>
+
+---
+
+## 📊 Skills Overview
+
+<div align="center">
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Java (Core & Advanced), Python, C++, JavaScript, SQL |
+| **Frontend** | HTML5, CSS3, Tailwind CSS, ReactJS |
+| **Backend** | Node.js, REST APIs, MySQL |
+| **Tools** | Git, GitHub, VS Code, DevOps Basics |
+| **Other** | Data Structures, Problem Solving, Clean Code Principles |
+
+</div>
+
+---
+
+## 🌟 What I'm Focused On
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────┐
+│ 🎓 Mastering React & Advanced JavaScript │
+│ 🐍 Exploring Python for Backend          │
+│ 📈 Learning System Design & Databases    │
+│ 🏗️  Building Full-Stack Projects         │
+│ 🧠 Problem Solving on DSA                │
+└─────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paraspathania&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paraspathania&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+I'm always open to collaborations, discussions, and new opportunities. Feel free to reach out!
+
+<p>
+  <a href="https://linkedin.com/in/paras-pathania" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:paraspathania705@gmail.com" target="_blank" title="Send an Email">
-    <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" width="40" height="40" alt="Gmail"/>
+  <a href="mailto:paraspathania705@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/paraspathania" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
+</div>
 
+---
 
+<div align="center">
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=paraspathania&color=FF6B6B&style=flat-square" alt="Profile Views">
+</p>
+
+**✨ Let's build something amazing together! ✨**
+
+</div>
