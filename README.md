@@ -1,74 +1,72 @@
-<!-- Header with Animated Gradient Background -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00D9FF&lines=Hey+there!+I'm+Paras+Pathania+👋;Full-Stack+Developer+in+the+Making+🚀;Building+Digital+Experiences+✨" alt="Typing SVG" />
-</div>
+# 👋 Welcome to My GitHub Profile!
 
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+### **Hi there! I'm Paras Pathania** 
+#### 🚀 Full-Stack Developer | 💻 Code Enthusiast | 📚 Always Learning
+
+```
+🎯 Building digital experiences with clean code & modern technologies
+✨ Transforming ideas into elegant, user-centric solutions
+🌱 Constantly exploring, learning, and growing
+```
+
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WcKlfXCMqfalzjz69e/giphy.gif" width="30"> About Me
+## 💫 About Me
 
 <div align="left">
-<p>
-  I'm a passionate <strong>Full-Stack Developer</strong> with a love for clean code and modern technologies. I believe in transforming complex ideas into elegant, user-centric solutions. Always exploring, always learning, always growing. 🌱
-</p>
+
+I'm a passionate **Full-Stack Developer** dedicated to creating elegant solutions through clean code and modern technologies. I believe in turning complex ideas into user-friendly applications while maintaining code quality and best practices.
+
+### ⚡ Quick Facts
 
 ```
 🎯 Goal        → Master Full-Stack Development & System Design
 💻 Passion     → Web Development, Problem Solving, Open Source
 📚 Currently   → Diving deep into React, Python & System Architecture
 🏆 Strength    → Java, JavaScript, SQL, Clean Code Practices
-🤝 Love        → Collaborating on meaningful projects & knowledge sharing
-📧 Reach Out   → paraspathania705@gmail.com
+🤝 Love        → Collaborating on meaningful projects
+📧 Email       → paraspathania705@gmail.com
 ```
+
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <div>
-        <h3 style="color: #00D9FF">Languages</h3>
-        <p>
-          <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql" alt="Languages"/>
-        </p>
-        <small>Java • Python • C++ • JS • SQL</small>
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <div>
-        <h3 style="color: #FF6B9D">Frontend</h3>
-        <p>
-          <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,webpack" alt="Frontend"/>
-        </p>
-        <small>HTML5 • CSS3 • Tailwind • React</small>
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <div>
-        <h3 style="color: #FFA500">Backend & DB</h3>
-        <p>
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend"/>
-        </p>
-        <small>Node.js • MySQL • MongoDB</small>
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <div>
-        <h3 style="color: #00FF88">Tools & More</h3>
-        <p>
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Tools"/>
-        </p>
-        <small>Git • GitHub • VS Code • Linux</small>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Tools & Version Control**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
@@ -77,13 +75,13 @@
 <div align="center">
 
 | **Category** | **Skills** |
-|:---:|:---|
+|:---|:---|
 | 💎 **Core Languages** | Java (OOP, Collections, Streams), Python, C++, JavaScript (ES6+) |
-| 🎨 **Frontend Magic** | React Hooks, Responsive Design, Tailwind CSS, HTML5/CSS3 |
-| ⚙️ **Backend Power** | Node.js, RESTful APIs, Express.js, Microservices Basics |
-| 🗄️ **Databases** | MySQL, MongoDB, Query Optimization, Normalization |
-| 🧠 **Fundamentals** | Data Structures, Algorithms, System Design, OOP, SOLID Principles |
-| 🔧 **DevOps & Tools** | Git/GitHub, Docker Basics, Linux, CI/CD Concepts |
+| 🎨 **Frontend Development** | React Hooks, Responsive Design, Tailwind CSS, HTML5/CSS3, State Management |
+| ⚙️ **Backend Development** | Node.js, Express.js, RESTful APIs, Microservices, Authentication |
+| 🗄️ **Databases** | MySQL, MongoDB, Query Optimization, Database Design, Normalization |
+| 🧠 **Core Concepts** | Data Structures, Algorithms, System Design, OOP, SOLID Principles, Design Patterns |
+| 🔧 **DevOps & Tools** | Git/GitHub, Docker Basics, Linux, CI/CD Concepts, Version Control |
 
 </div>
 
@@ -92,26 +90,13 @@
 ## 🚀 Currently Focused On
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="25%" align="center">
-        <h4>🎓 Advanced React</h4>
-        <p>State Management<br/>Performance Optimization<br/>Custom Hooks</p>
-      </td>
-      <td width="25%" align="center">
-        <h4>🐍 Python Backend</h4>
-        <p>Django/FastAPI<br/>Database Design<br/>API Development</p>
-      </td>
-      <td width="25%" align="center">
-        <h4>📈 System Design</h4>
-        <p>Scalability<br/>Architecture<br/>Database Design</p>
-      </td>
-      <td width="25%" align="center">
-        <h4>🏗️ Full Stack Projects</h4>
-        <p>Real-world Apps<br/>Production Ready<br/>Best Practices</p>
-      </td>
-    </tr>
-  </table>
+
+| 🎓 **Advanced React** | 🐍 **Python Backend** | 📈 **System Design** | 🏗️ **Full Stack** |
+|:---:|:---:|:---:|:---:|
+| State Management | Django/FastAPI | Scalability | Real-world Apps |
+| Performance Optimization | Database Design | Architecture Patterns | Production Ready |
+| Custom Hooks | API Development | Load Balancing | Best Practices |
+
 </div>
 
 ---
@@ -119,45 +104,25 @@
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/paraspathania">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paraspathania&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/paraspathania">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paraspathania&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/paraspathania">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=paraspathania&theme=midnight-purple&hide_border=true" alt="GitHub Streak Stats"/>
-  </a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paraspathania&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paraspathania&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paraspathania&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 🌟 What Makes Me Different
+## ⭐ What Makes Me Different
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>🎯 Goal-Oriented</h4>
-        <p>Clear objectives, measurable progress</p>
-      </td>
-      <td align="center">
-        <h4>📚 Continuous Learner</h4>
-        <p>Always exploring new tech & concepts</p>
-      </td>
-      <td align="center">
-        <h4>🤝 Collaborative</h4>
-        <p>Open to teamwork & knowledge exchange</p>
-      </td>
-      <td align="center">
-        <h4>✨ Code Quality</h4>
-        <p>Clean, maintainable, well-documented</p>
-      </td>
-    </tr>
-  </table>
+
+| 🎯 **Goal-Oriented** | 📚 **Continuous Learner** | 🤝 **Collaborative** | ✨ **Code Quality** |
+|:---:|:---:|:---:|:---:|
+| Clear objectives & measurable progress | Always exploring new technologies | Open to teamwork & knowledge sharing | Clean, maintainable code |
+
 </div>
 
 ---
@@ -165,40 +130,26 @@
 ## 🔗 Let's Connect & Collaborate!
 
 <div align="center">
-  <p>
-    <a href="https://linkedin.com/in/paras-pathania" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="mailto:paraspathania705@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/paraspathania" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/yourhandle" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
-    </a>
-  </p>
 
-  <p>
-    <i>💡 Feel free to reach out for collaborations, discussions, or just to chat about tech!</i>
-  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paras-pathania)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paraspathania705@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paraspathania)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
-  <img src="https://komarev.com/ghpvc/?username=paraspathania&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/iY9V8ijPrcn0VzjNUW/giphy.gif" width="30">
-    Let's Build Something Amazing Together!
-    <img src="https://media.giphy.com/media/iY9V8ijPrcn0VzjNUW/giphy.gif" width="30">
-  </h3>
-  
-  <!-- Animated Stars -->
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer" />
+
+### 💡 *Feel free to reach out for collaborations, discussions, or just to chat about tech!*
+
+### ✨ **Let's Build Something Amazing Together!** ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=paraspathania&color=blue&style=flat-square&label=Profile+Views)
+
+---
+
+**Happy Coding! 🚀**
+
 </div>
