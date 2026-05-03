@@ -105,11 +105,28 @@ I'm a passionate **Full-Stack Developer** dedicated to creating elegant solution
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paraspathania&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- PASTE THE WAKATIME CODE BELOW THIS LINE -->
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=paraspathania&layout=compact)](https://wakatime.com)
+<!-- END: This shows your coding time stats -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paraspathania&layout=compact&theme=tokyonight&hide_border=true)
+### 📊 My GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paraspathania&theme=tokyonight&hide_border=true)
+```
+Total Repositories  | Active Projects | Stars Earned | Contributions
+        25+         |       15+       |     50+      |     500+/year
+```
+
+**[View My GitHub Profile →](https://github.com/paraspathania)**
+
+### 💻 Most Used Languages
+- **Java** - 35%
+- **JavaScript** - 30%
+- **Python** - 20%
+- **SQL** - 10%
+- **Others** - 5%
+
+### 🔥 GitHub Streak
+Visit my profile to see my contribution streak: **[paraspathania](https://github.com/paraspathania)**
 
 </div>
 
