@@ -1,6 +1,6 @@
 <!-- Header with Animated Gradient Background -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00D9FF&lines=Hey+there!+I'm+Paras+Pathania+👋;Full-Stack+Developer+in+the+Making+🚀;Building+Digital+Experiences+✨" alt="Typing SVG" />
+  <img src="https://typing-svg-nine.vercel.app?font=Fira+Code&size=28&color=00D9FF&lines=Hey+there!+I'm+Paras+Pathania+👋;Full-Stack+Developer+in+the+Making+🚀;Building+Digital+Experiences+✨" alt="Typing SVG" />
 </div>
 
 <!-- Gradient Divider -->
