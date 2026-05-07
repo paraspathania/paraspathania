@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/paras-pathania"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:paraspathania705@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/paraspathania"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=paraspathania&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=paraspathania&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS"/> -->
 
 </div>
 
